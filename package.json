@@ -1,6 +1,6 @@
 {
   "name": "init.cs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A modern alternative to CSS resets",
   "main": "init.css",
   "style": "init.css",
